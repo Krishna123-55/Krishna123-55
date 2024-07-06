@@ -1,6 +1,6 @@
 <div align="center">
     
-<img align="right" src="https://komarev.com/ghpvc/?username=your-github-Krishna123-55.Krishna123-55=true" />
+<img align="right" src="https://komarev.com/ghpvc/?username=your-github-Krishna123-55&Krishna123-55=true" />
     
 </div>
 https://komarev.com/ghpvc/?username=your-github-Krishna123-55&abbreviated=true

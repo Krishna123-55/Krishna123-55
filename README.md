@@ -1,7 +1,7 @@
 <div align="center">
-    <h3>
+    <br>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Krishna123-55.Krishna123-55" />
-    </h3>
+    </br>
 </div>
 
 <h1 align="center">

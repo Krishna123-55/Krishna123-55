@@ -40,10 +40,11 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align="center" class="center">
+<div align="left" >
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Krishna123-55&theme=react&border_radius=10" alt="streak stats"/>
-    <br/>
+<div align= "right">
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Krishna123-55&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+</div>
 </div>
 
 <br/><br/>

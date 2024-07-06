@@ -43,7 +43,7 @@
 <div align="center" >
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Krishna123-55&theme=react&border_radius=10" alt="streak stats"/>
     
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Krishna123-55&show_icons=true&theme=react&rank_icon=github&border_radius=14" alt="readme stats" />
+  <img width=400 src="https://github-readme-stats-salesp07.vercel.app/api?username=Krishna123-55&show_icons=true&theme=react&rank_icon=github&border_radius=14" alt="readme stats" />
 </div>
 
 <br/><br/>
